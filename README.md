@@ -1,3 +1,3 @@
-# library
+# library project
 
-https://leanal.github.io/library/
+[library preview](https://leanal.github.io/library/)
